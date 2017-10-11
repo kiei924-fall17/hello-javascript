@@ -8,11 +8,11 @@
 // When executed, this program should print out two random
 // numbers, one on each line, simulating the roll of two
 // dice. Set two variables, with names that make sense,
-// then write them out to the screen.
+// then write them out to the screen. Show the total
+// as well.
 
 // HINTS
 // Get a random number between 1 and 6 by doing:
 // Math.floor(Math.random()*6+1)
 // Log output to the screen with console.log(), e.g.
 // console.log("hello");
-
