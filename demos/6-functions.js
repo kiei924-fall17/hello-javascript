@@ -8,6 +8,9 @@
 // Sometimes you'll want to store actual functionality in a 
 // variable. To do this, we'll need to use *functions*.
 
+// There are built-in functions (i.e. native to JavaScript) and
+// your own functions.
+
 // Let's define our first function. It's just like defining any
 // other variable, except for this weird "function() {}" syntax.
 let sayHello = function() {
